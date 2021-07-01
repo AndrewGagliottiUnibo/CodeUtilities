@@ -9,3 +9,5 @@ languages I know.
 - Java
 - IA-32 Assembly
 - Python
+
+I accept pull request or any file you want to share. You can found my email on my profile.
