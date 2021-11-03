@@ -9,3 +9,5 @@ languages I know.
 - Java
 - IA-32 Assembly
 - Python
+
+C89 multithreading exercises comes from another repo but most of all are mine. I've decided to upload those files here due to a discussion between me and them. I likely made 80% of these exercises. Original repo can be found at: https://github.com/j3yxz/test
