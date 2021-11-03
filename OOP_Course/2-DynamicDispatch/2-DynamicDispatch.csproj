@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <Authors>Giovanni Ciatto;Angelo Croatti;Niccolò Maltoni;Andrea Placuzzi</Authors>
+    <Company>Università di Bologna</Company>
+    <Product>OOP Lab - C#</Product>
+    <Copyright>Copyright © 2020</Copyright>
+    <Version>2.0.0</Version>
+    <NeutralLanguage>en</NeutralLanguage>
+    <AssemblyName>DynamicDispatch</AssemblyName>
+    <RootNamespace>DynamicDispatch</RootNamespace>
+    <Nullable>disable</Nullable>
+    <LangVersion>8</LangVersion>
+  </PropertyGroup>
+
+</Project>
