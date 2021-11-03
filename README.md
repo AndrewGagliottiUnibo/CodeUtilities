@@ -7,7 +7,7 @@ languages I know.
 # Available branches:
 - C
 - Java
-- IA-32 Assembly
+- C#
 - Python
 
 I accept pulls request or any file you want to share. You can found my email on my profile.
