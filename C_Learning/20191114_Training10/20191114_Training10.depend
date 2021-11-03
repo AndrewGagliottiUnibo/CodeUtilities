@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573750653 source:c:\users\andrew.gagliotti\desktop\20191114_training10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
