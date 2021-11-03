@@ -1,0 +1,4 @@
+aaaaa bbbb*bbbb cccccc
+ddddd eeeee*eeee fffff*fffff gggggg
+hhhhh*hh iiiii iiii**
+** aaaa aaaa ** *
