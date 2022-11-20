@@ -1,0 +1,1 @@
+rootProject.name = "example-with-get-resources"
