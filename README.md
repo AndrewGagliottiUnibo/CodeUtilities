@@ -8,6 +8,5 @@ languages I know.
 - C
 - Java
 - C#
-- Python
 
 I accept pulls request or any file you want to share. You can found my email on my profile.
