@@ -10,3 +10,5 @@ languages I know.
 - C#
 
 I accept pulls request or any file you want to share. You can found my email on my profile.
+
+## License is valid for all branches.
